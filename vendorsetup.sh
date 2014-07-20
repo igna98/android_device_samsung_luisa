@@ -20,5 +20,5 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo totoro-eng
-add_lunch_combo totoro-userdebug
+add_lunch_combo luisa-eng
+add_lunch_combo luisa-userdebug
