@@ -1,8 +1,8 @@
-Device Galaxy Y - CyanogenMod 7.2
+Device Galaxy Y Pro - CyanogenMod 7.2
 =================================
 
-Device tree for Samsung Galaxy Y S5360 - CM7
+Device tree for Samsung Galaxy Y Pro B5510 - CM7
 
-Maintainer: Bieltv.3
+Maintainer: igna98
 
-Note: to build you must paste cyanogen_totoro.mk to vendor/cyanogen/products
+Note: to build you must paste cyanogen_luisa.mk to vendor/cyanogen/products
